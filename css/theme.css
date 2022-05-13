@@ -3514,7 +3514,7 @@ License URI:
 .sidebar_1 .widget ul li {
   list-style: none;
   line-height: 0.8;
-  padding: 0 30px 0 20px;
+  padding: 0 30px 0 20`````````````````````````px;
 
   transition: all ease 300ms;
   -moz-transition: all ease 300ms;
@@ -3686,6 +3686,11 @@ License URI:
 /*------------------------------------------------------------------------------
 / 32. Service Details
 ------------------------------------------------------------------------------*/
+
+.service_banner {
+  background-image: url(/images/about/facility.jpg);
+  background-position: center;
+}
 .service_details_area {
   position: relative;
   padding-right: 30px;
