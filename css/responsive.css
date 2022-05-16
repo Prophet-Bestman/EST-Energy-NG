@@ -320,6 +320,9 @@ License URI:
 / 4. Responsive For Tab Device
 --------------------------------------------------------------------------------------*/
 @media (min-width: 768px) and (max-width: 991px) {
+  .nav_bar {
+    display: none;
+  }
   .logo_02 img {
     width: auto;
     height: auto;
@@ -779,6 +782,7 @@ License URI:
   .topbar:before {
     width: 60%;
   }
+
   .nav_bar .right_bgs {
     width: 42%;
     height: 100%;

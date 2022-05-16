@@ -84,10 +84,10 @@ License URI:
 .logo {
   position: relative;
   max-width: 555px;
-  padding: 25px 0 24px;
+  padding: 0 24px;
 }
 .logo img {
-  height: 51px;
+  height: 85px;
   width: auto;
   max-width: 100%;
 }
@@ -1684,7 +1684,7 @@ License URI:
   padding-right: 10px;
 }
 .about_widget img {
-  max-width: 100%;
+  width: 140px;
   height: auto;
   margin-bottom: 18px;
 }
@@ -3088,6 +3088,11 @@ License URI:
   position: relative;
   padding: 20px 0 0 20px;
 }
+
+.singleTeam02 img {
+  height: 400px !important;
+  object-fit: cover;
+}
 .st2_inner {
   position: relative;
   background: #f4f7ff;
@@ -3408,6 +3413,7 @@ License URI:
 .teamSection .singleTeam02 {
   margin-bottom: 60px;
 }
+
 .imgCarousel,
 .imgCarousel .carousel-inner,
 .imgCarousel .carousel-item {
@@ -3514,7 +3520,7 @@ License URI:
 .sidebar_1 .widget ul li {
   list-style: none;
   line-height: 0.8;
-  padding: 0 30px 0 20`````````````````````````px;
+  padding: 0 30px 0 12px;
 
   transition: all ease 300ms;
   -moz-transition: all ease 300ms;
