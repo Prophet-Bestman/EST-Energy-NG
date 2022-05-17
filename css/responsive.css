@@ -763,10 +763,10 @@ License URI:
 /*------------------------------------------------------------------------------------
 / 5. Responsive For Mobile Device
 --------------------------------------------------------------------------------------*/
-.nav_bar {
-  display: none;
-}
 @media (max-width: 767px) {
+  .nav_bar {
+    display: none;
+  }
   .slider_02 .hermes .tp-arr-allwrapper,
   .slider_01 .hermes .tp-arr-allwrapper {
     width: 60px;

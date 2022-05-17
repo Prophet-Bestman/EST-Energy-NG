@@ -3736,6 +3736,12 @@ License URI:
   width: 100%;
   height: auto;
 }
+.sda_gl.small img {
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+}
+
 .sda_content {
   font-size: 16px;
   line-height: 28px;
@@ -3791,6 +3797,22 @@ License URI:
 /*------------------------------------------------------------------------------
 / 33. Project Pages
 ------------------------------------------------------------------------------*/
+.project_banner {
+  background-image: url(/images/projects.jpg);
+}
+
+.hvac_banner {
+  background-image: url(/images/hvac/banner.jpg);
+}
+
+.hvlv_banner {
+  background-image: url(/images/hvlv/banner.jpg);
+}
+
+.thermal_banner {
+  background-image: url(/images/thermal/3.webp);
+}
+
 .ind_pagination {
   position: relative;
 }
@@ -3835,7 +3857,8 @@ License URI:
 }
 .singleFolio_03 img {
   width: 100%;
-  height: auto;
+  height: 400px;
+  object-fit: cover;
 }
 .blankFolio {
   width: 100%;
