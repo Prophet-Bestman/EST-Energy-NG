@@ -767,6 +767,11 @@ License URI:
   .nav_bar {
     display: none;
   }
+
+  .about_us_content p {
+    font-size: 16px;
+  }
+
   .slider_02 .hermes .tp-arr-allwrapper,
   .slider_01 .hermes .tp-arr-allwrapper {
     width: 60px;

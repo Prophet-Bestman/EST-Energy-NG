@@ -939,6 +939,9 @@ License URI:
   max-width: 100%;
   height: auto;
 }
+.about_us_content p {
+  font-size: 18px;
+}
 
 /*------------------------------------------------------------------------------
 / 5. Feature Section
@@ -947,7 +950,7 @@ License URI:
   position: relative;
   background: #fff;
   padding: 60px 25px 54px;
-  min-height: 460px;
+  min-height: 520px;
 
   transition: all ease 300ms;
   -moz-transition: all ease 300ms;
@@ -1036,6 +1039,7 @@ License URI:
 }
 .icon_box_01 p {
   margin: 0;
+  font-size: 17px;
 
   transition: all ease 300ms;
   -moz-transition: all ease 300ms;
@@ -7439,4 +7443,4 @@ blockquote h6 {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-}
+
