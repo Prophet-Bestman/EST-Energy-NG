@@ -84,10 +84,10 @@ License URI:
 .logo {
   position: relative;
   max-width: 555px;
-  padding: 0 24px;
+  padding: 12px 24px;
 }
 .logo img {
-  height: 85px;
+  height: 80px;
   width: auto;
   max-width: 100%;
 }

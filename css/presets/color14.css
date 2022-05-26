@@ -2,8 +2,7 @@
 / PRIMARY COLOR 
 /=============================================*/
 /**---- Background HEX ----**/
-.topbar:before,
-.nav_bar .right_bgs,
+
 .ind_btn:before,
 .ind_btn.ib_dark:hover:after,
 .ind_btn_2,
@@ -83,6 +82,10 @@
   background-color: #004800;
 }
 
+.topbar:before,
+.nav_bar .right_bgs {
+  background-color: white;
+}
 /**---- Color Text ----**/
 .info_element i,
 .info_element p a:hover,
@@ -254,7 +257,7 @@
 
 /**---- Border Color ----**/
 .nav_bar .right_bgs:before {
-  border-color: transparent #004800 transparent transparent;
+  border-color: transparent transparent transparent transparent;
 }
 .serviceSlider.owl-carousel .owl-nav button:hover,
 .worksSlider.owl-carousel .owl-nav button:hover,
