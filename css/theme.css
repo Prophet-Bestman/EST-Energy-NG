@@ -107,7 +107,7 @@ License URI:
   padding-top: 37px;
 }
 .settings_bar a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #fff;
   display: inline-block;
@@ -124,7 +124,7 @@ License URI:
 .search_element form {
   margin: 0;
   padding: 0;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
   color: #707f9f;
 }
@@ -164,7 +164,7 @@ License URI:
   margin-right: 45px;
 }
 .info_element i {
-  font-size: 14px;
+  font-size: 16px;
   color: #ff5e14;
   position: absolute;
   left: 0;
@@ -329,7 +329,7 @@ License URI:
   margin: 0;
 }
 .mainmenu ul.sub_menu li a {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   display: block;
@@ -353,7 +353,7 @@ License URI:
   padding-top: 23px;
 }
 .top_social a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   letter-spacing: 0;
   color: #fff;
@@ -469,7 +469,7 @@ License URI:
 .footer__contacts li {
   list-style: none;
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   color: #fff;
   line-height: 22px;
   margin: 0 0 7px;
@@ -565,7 +565,7 @@ License URI:
 .dl-menu__wrap ul li a {
   color: #fff;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   letter-spacing: 1px;
   font-weight: 400;
@@ -1071,7 +1071,7 @@ License URI:
 .filterMenu ul li {
   list-style: none;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #06163a;
   text-transform: capitalize;
@@ -1214,7 +1214,7 @@ License URI:
   -o-transition: all 0.4s ease-out;
 }
 .singlefolio .folioHover p {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 0.8;
   font-weight: 500;
   color: #fff;
@@ -1367,7 +1367,7 @@ License URI:
 }
 .icon_box_03 ul li {
   list-style: none;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 30px;
   color: #959ba9;
   position: relative;
@@ -1375,7 +1375,7 @@ License URI:
 .icon_box_03 ul li:before {
   content: "\f0da";
   font-family: "Font Awesome 5 Pro";
-  font-size: 14px;
+  font-size: 16px;
   line-height: 30px;
   letter-spacing: 0;
   color: #ff5e14;
@@ -1498,7 +1498,7 @@ License URI:
 }
 .testimonial_item .ratings {
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #ffd200;
   margin: 0 0 30px;
@@ -1537,7 +1537,7 @@ License URI:
   padding-top: 13px;
 }
 .ti_author span {
-  font-size: 14px;
+  font-size: 16px;
   color: #ff5e14;
   display: block;
   line-height: 0.8;
@@ -1597,7 +1597,7 @@ License URI:
 .bi_meta {
   position: relative;
   color: #ff5e14;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 14px;
   margin-bottom: 19px;
 }
@@ -1636,7 +1636,7 @@ License URI:
   word-break: break-all;
 }
 .read_more {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   position: relative;
   text-transform: capitalize;
@@ -1693,7 +1693,7 @@ License URI:
   margin-bottom: 18px;
 }
 .about_widget p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
   margin: 0 0 25px;
   color: #acafc0;
@@ -1717,7 +1717,7 @@ License URI:
   top: 20px;
 }
 .caller span {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #727e9a;
   display: block;
@@ -1759,7 +1759,7 @@ License URI:
 .footer_01 .widget ul li a {
   display: inline-block;
   line-height: 0.8;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   color: #acafc0;
   position: relative;
@@ -1835,7 +1835,7 @@ License URI:
   background: #0f1f45;
   border-radius: 70px;
   color: #bfbfcb;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   margin: 0 0 20px;
   padding: 0 15px 0 40px;
@@ -1865,7 +1865,7 @@ License URI:
   margin: 0;
   padding: 2px 44px 0;
   min-width: 200px;
-  font-size: 14px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 2.8px;
   border: none;
@@ -1886,7 +1886,7 @@ License URI:
   position: relative;
 }
 .widget .socials a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   display: inline-block;
   color: #acafc0;
@@ -1915,7 +1915,7 @@ License URI:
 .siteinfo {
   text-align: center;
   border-top: 2px solid #1a2c55;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
   color: #ffffff;
   padding: 25px 0 24px;
@@ -1982,7 +1982,7 @@ License URI:
 }
 .social_and_settings a {
   color: #a9b2c7;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   display: inline-block;
   position: relative;
@@ -2188,7 +2188,7 @@ License URI:
   background: #ff5e14;
   width: 170px;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   font-weight: 500;
   text-transform: uppercase;
@@ -2275,7 +2275,7 @@ License URI:
   margin: 0;
 }
 .singleService .serviceDetails > a {
-  font-size: 14px;
+  font-size: 16px;
   text-transform: capitalize;
   font-weight: 500;
   letter-spacing: 0;
@@ -2351,7 +2351,7 @@ License URI:
   color: #fff;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   line-height: 0.8;
   display: inline-block;
@@ -2443,7 +2443,7 @@ License URI:
 .sf2_con p {
   line-height: 0.8;
   margin: 0 0 12px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
   color: #ff5e14;
@@ -2515,7 +2515,7 @@ License URI:
 }
 .singleTeam span {
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   text-transform: uppercase;
   color: #ff5e14;
   font-weight: 500;
@@ -2542,7 +2542,7 @@ License URI:
   padding: 0 10px;
 }
 .teamsocials {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #acafc0;
 }
@@ -2714,7 +2714,7 @@ License URI:
   height: auto;
 }
 .bmeta {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #959ba9;
   margin: 0 0 17px;
@@ -2768,7 +2768,7 @@ License URI:
   top: 0;
 }
 .bauthor a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   font-weight: 500;
   color: #06163a;
@@ -2828,7 +2828,7 @@ License URI:
   line-height: 0.8;
 }
 .fo_social a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #acafc0;
   display: inline-block;
@@ -2856,7 +2856,7 @@ License URI:
 }
 .footer_02 .widget ul li {
   line-height: 0.8;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   color: #acafc0;
   list-style: none;
@@ -2919,7 +2919,7 @@ License URI:
   margin-bottom: 0;
 }
 .newsfeed p {
-  font-size: 14px;
+  font-size: 16px;
   color: #ff5e14;
   line-height: 0.8;
   margin: 0 0 16px;
@@ -3007,7 +3007,7 @@ License URI:
   margin: 0 0 18px;
 }
 .yearsofexp > span {
-  font-size: 12px;
+  font-size: 14px;
   text-transform: capitalize;
   color: #fff;
   font-weight: 500;
@@ -3048,7 +3048,7 @@ License URI:
   overflow: hidden;
 }
 .singleSkill > span {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1;
   font-weight: 500;
   text-transform: uppercase;
@@ -3127,7 +3127,7 @@ License URI:
 .st2_inner span {
   display: block;
   color: #ff5e14;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   margin: 0;
   text-transform: uppercase;
@@ -3262,7 +3262,7 @@ License URI:
 }
 .history_box span {
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   color: #9aa1b0;
   line-height: 0.8;
   text-transform: uppercase;
@@ -3281,7 +3281,7 @@ License URI:
   padding-right: 35px;
 }
 .history_box a {
-  font-size: 14px;
+  font-size: 16px;
   text-transform: capitalize;
   font-weight: 500;
   letter-spacing: 0;
@@ -3536,7 +3536,7 @@ License URI:
   background: #ff5e14;
 }
 .sidebar_1 .widget ul li a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #6c768e;
   display: inline-block;
@@ -3611,7 +3611,7 @@ License URI:
   color: #06163a;
 }
 .singleBrou > a {
-  font-size: 14px;
+  font-size: 16px;
   display: inline-block;
   color: #6c768e;
   line-height: 0.8;
@@ -3651,7 +3651,7 @@ License URI:
   color: #ff5e14;
 }
 .ltworks p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 30px;
   letter-spacing: 0;
   color: #ff5e14;
@@ -3826,7 +3826,7 @@ License URI:
   height: 70px;
   background: #f8f8f8;
   border-radius: 50%;
-  font-size: 14px;
+  font-size: 16px;
   color: #9fa7c5;
   line-height: 70px;
   text-align: center;
@@ -3917,13 +3917,13 @@ License URI:
 }
 .folioHover_03 .cats {
   position: relative;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 300;
   line-height: 0.8;
 }
 .folioHover_03 .cats a {
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
   color: #ff5e14;
@@ -4089,7 +4089,7 @@ License URI:
 }
 .sf4_cat {
   margin: 0 0 20px;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
   color: #ff5e14;
@@ -4194,7 +4194,7 @@ License URI:
 }
 .sf5_cat {
   margin: 0 0 20px;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
   color: #ff5e14;
@@ -4221,7 +4221,7 @@ License URI:
 }
 .sf5_det > a {
   position: relative;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0;
@@ -4260,7 +4260,7 @@ License URI:
 }
 .pd_cat {
   position: relative;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   text-transform: uppercase;
   line-height: 0.8;
@@ -4318,7 +4318,7 @@ License URI:
 
 .pd_social {
   position: relative;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
 }
 .pd_social span,
@@ -4359,7 +4359,7 @@ License URI:
   text-align: center;
   padding: 24px 15px 0;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: -0.42px;
   text-transform: capitalize;
   font-weight: 500;
@@ -4382,7 +4382,7 @@ License URI:
   display: inline-block;
   width: 70px;
   height: 70px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   text-align: center;
   padding: 28px 0;
@@ -4487,7 +4487,7 @@ License URI:
   font-weight: 500;
   letter-spacing: 0;
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
 }
 .sb_cats a {
@@ -4525,7 +4525,7 @@ License URI:
 }
 .sb_footer span {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   line-height: 0.8;
   color: #7d8c95;
@@ -4613,7 +4613,7 @@ License URI:
   background: #f9f7ff;
   border-radius: 60px;
   border: none;
-  font-size: 12px;
+  font-size: 14px;
   color: #797e97;
   padding-left: 30px;
   padding-right: 60px;
@@ -4629,7 +4629,7 @@ License URI:
   right: 0;
   top: 0;
   border: none;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 60px;
   transition: all ease 300ms;
   -moz-transition: all ease 300ms;
@@ -4726,7 +4726,7 @@ License URI:
   display: inline-block;
   line-height: 0.8;
   text-align: right;
-  font-size: 14px;
+  font-size: 16px;
   color: #7d8c95;
   width: 100%;
   border-bottom: 1px solid #eaeaea;
@@ -4778,7 +4778,7 @@ License URI:
   color: #ff5e14;
 }
 .allfeeds span {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 16px;
   color: #ababb9;
   display: block;
@@ -4796,7 +4796,7 @@ License URI:
 }
 .tagclouds a {
   float: left;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 0.8;
   color: #7d8c95;
   text-transform: capitalize;
@@ -4839,7 +4839,7 @@ License URI:
 }
 .ndMeta span {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   color: #7e889b;
   margin-right: 21px;
@@ -4873,7 +4873,7 @@ License URI:
 }
 blockquote {
   background: #f0f1ff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #7e889b;
   padding: 25px 40px 32px 102px;
@@ -4894,7 +4894,7 @@ blockquote p {
   color: #7e889b;
 }
 blockquote h6 {
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: -0.42px;
   color: #06163a;
   line-height: 0.8;
@@ -4913,7 +4913,7 @@ blockquote h6 {
   margin: 0 0 24px;
 }
 .ndTags a {
-  font-size: 14px;
+  font-size: 16px;
   color: #7e889b;
   font-weight: 500;
   text-transform: uppercase;
@@ -4978,7 +4978,7 @@ blockquote h6 {
   position: relative;
 }
 .pagin strong {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0;
@@ -5045,7 +5045,7 @@ blockquote h6 {
   color: #ff5e14;
 }
 .authorSocial {
-  font-size: 12px;
+  font-size: 14px;
   color: #9498b6;
   line-height: 0.8;
   margin-bottom: 23px;
@@ -5063,7 +5063,7 @@ blockquote h6 {
   margin: 0;
   color: #7e889b;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   padding: 0 15px;
 }
 .mb49 {
@@ -5127,7 +5127,7 @@ blockquote h6 {
 }
 .ndcHead span {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   line-height: 0.8;
   letter-spacing: 2.4px;
@@ -5135,7 +5135,7 @@ blockquote h6 {
   font-weight: 500;
 }
 .ndcHead a.replys {
-  font-size: 14px;
+  font-size: 16px;
   color: #7e889b;
   letter-spacing: 0;
   text-transform: capitalize;
@@ -5147,7 +5147,7 @@ blockquote h6 {
 .ndcHead a.replys:before {
   content: "\f3e5";
   font-family: "Font Awesome 5 Pro";
-  font-size: 14px;
+  font-size: 16px;
   margin-right: 5px;
 }
 .ndcHead a.replys:hover {
@@ -5155,7 +5155,7 @@ blockquote h6 {
 }
 .ndcContent {
   position: relative;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #7e889b;
 }
@@ -5183,7 +5183,7 @@ blockquote h6 {
   height: 60px;
   width: 100%;
   display: block;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #9fa3b8;
 }
@@ -5209,7 +5209,7 @@ blockquote h6 {
   padding-bottom: 18px;
 }
 .cfItem i {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 60px;
   position: absolute;
   right: 30px;
@@ -5222,7 +5222,7 @@ blockquote h6 {
   text-transform: uppercase;
   background: #ff5e14;
   border-radius: 60px;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1.4px;
   font-weight: 500;
   line-height: 0.8;
@@ -5505,7 +5505,7 @@ blockquote h6 {
   color: #ff5e14;
 }
 .product_price {
-  font-size: 14px;
+  font-size: 16px;
   color: #06163a;
   font-weight: 500;
   letter-spacing: 2px;
@@ -5522,7 +5522,7 @@ blockquote h6 {
   margin-right: 11px;
 }
 .product_btn a {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   letter-spacing: 0;
   text-transform: uppercase;
@@ -5575,7 +5575,7 @@ blockquote h6 {
 .lavel > p {
   background: #06163a;
   color: #fff;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
   height: 35px;
   letter-spacing: 0;
@@ -5649,7 +5649,7 @@ blockquote h6 {
   text-transform: uppercase;
   background: #ff5e14;
   border-radius: 60px;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1.4px;
   font-weight: 500;
   line-height: 0.8;
@@ -5696,7 +5696,7 @@ blockquote h6 {
   color: #ff5e14;
 }
 .sp_price {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   letter-spacing: 1px;
   margin-bottom: 0;
@@ -5725,7 +5725,7 @@ blockquote h6 {
 }
 .offerDe {
   color: #ff5e14;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   margin-bottom: 16px;
   text-transform: uppercase;
@@ -5750,7 +5750,7 @@ blockquote h6 {
   margin-right: 11px;
 }
 .product_decp > p {
-  font-size: 14px;
+  font-size: 16px;
   margin: 0;
 }
 .product_decp > p:last-of-type {
@@ -5771,7 +5771,7 @@ blockquote h6 {
 .text_meta {
   margin: 0;
   line-height: 14px;
-  font-size: 14px;
+  font-size: 16px;
 }
 .text_meta a {
   color: #959ba9;
@@ -5817,7 +5817,7 @@ blockquote h6 {
   height: 100%;
   padding: 0;
   position: absolute;
-  font-size: 14px;
+  font-size: 16px;
   border: none;
   color: #959ba9;
   letter-spacing: 0;
@@ -5842,7 +5842,7 @@ blockquote h6 {
   color: #fff;
   text-align: center;
   padding: 18px 15px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0;
@@ -5892,7 +5892,7 @@ blockquote h6 {
   margin-right: 27px;
 }
 .social_shares a {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 16px;
   display: inline-block;
   color: #959ba9;
@@ -5960,7 +5960,7 @@ blockquote h6 {
   color: #06163a;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   text-transform: capitalize;
   line-height: 0.8;
@@ -5997,7 +5997,7 @@ blockquote h6 {
   color: #ff5e14;
 }
 .productTabContent .descriptionContent {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 30px;
   color: #959ba9;
   padding-top: 32px;
@@ -6024,7 +6024,7 @@ blockquote h6 {
   border-bottom: 1px solid #e8e8e8;
   position: relative;
   padding-left: 180px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 48px;
   width: 50%;
   float: left;
@@ -6198,7 +6198,7 @@ blockquote h6 {
   margin: 0 0 26px;
 }
 .ib5_inner p {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 26px;
   color: #959ba9;
   letter-spacing: 0;
@@ -6208,7 +6208,7 @@ blockquote h6 {
   color: #ff5e14;
 }
 .ib5_inner > a {
-  font-size: 14px;
+  font-size: 16px;
   display: inline-block;
   line-height: 0.8;
   color: #ff5e14;
@@ -6345,7 +6345,7 @@ blockquote h6 {
   position: absolute;
   left: 20px;
   top: 0;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: -0.42px;
   color: #f46904;
   height: 57px;
@@ -6354,7 +6354,7 @@ blockquote h6 {
 
 .cotactForm input[type="submit"] {
   position: relative;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0;
@@ -6568,7 +6568,7 @@ blockquote h6 {
   padding-left: 19px;
   padding-right: 19px;
   color: #959ba9;
-  font-size: 14px;
+  font-size: 16px;
   resize: none;
   float: left;
   border-radius: 0;
@@ -6594,7 +6594,7 @@ blockquote h6 {
   border: medium none;
   color: #fff;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   height: 60px;
   letter-spacing: 0px;
@@ -6613,7 +6613,7 @@ blockquote h6 {
   border: medium none;
   color: #fff;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   height: 60px;
   letter-spacing: 0px;
@@ -6777,7 +6777,7 @@ blockquote h6 {
   border: medium none;
   color: #fff;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   height: 60px;
   letter-spacing: 0px;
@@ -6816,7 +6816,7 @@ blockquote h6 {
   padding-right: 19px;
   color: #959ba9;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
 }
 .billing_countries {
   position: relative;
@@ -6831,7 +6831,7 @@ blockquote h6 {
   color: #959ba9;
   font-weight: 400;
   letter-spacing: 0;
-  font-size: 14px;
+  font-size: 16px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -6843,7 +6843,7 @@ blockquote h6 {
   color: #959ba9;
   font-weight: 300;
   letter-spacing: 0.56px;
-  font-size: 12px;
+  font-size: 14px;
   content: "\f078";
   font-family: "Font Awesome 5 Pro";
   position: absolute;
@@ -6883,7 +6883,7 @@ blockquote h6 {
   position: relative;
   text-align: left;
   color: #959ba9;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   margin-top: 3px;
   padding-left: 40px;
@@ -7040,7 +7040,7 @@ blockquote h6 {
 }
 .woocommerce-checkout-payment ul li label {
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   color: #06163a;
   letter-spacing: 0;
   font-weight: 300;
@@ -7060,7 +7060,7 @@ blockquote h6 {
   display: block;
 }
 .payment_box p {
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 0;
   font-weight: 300;
   color: #959ba9;
@@ -7092,7 +7092,7 @@ blockquote h6 {
   color: #959ba9;
   font-weight: 400;
   letter-spacing: 0;
-  font-size: 14px;
+  font-size: 16px;
   resize: none;
   padding-top: 12px;
 }
@@ -7260,7 +7260,7 @@ blockquote h6 {
 }
 .color_settings .color_preset h4 {
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   color: #06163a;
   line-height: 0.8;
   font-weight: 500;

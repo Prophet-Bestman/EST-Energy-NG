@@ -246,7 +246,7 @@ License URI:
     margin-right: 15px;
   }
   .sb_footer span {
-    font-size: 13px;
+    font-size: 15px;
     margin-right: 10px;
   }
   .sb_footer span i {
@@ -448,7 +448,7 @@ License URI:
     font-size: 16px;
   }
   .info_element p {
-    font-size: 12px;
+    font-size: 14px;
   }
   .logo_02 {
     float: left;
@@ -465,7 +465,7 @@ License URI:
     height: 50px;
     background: #ff5e14;
     display: inline-block;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 0;
     font-weight: 500;
     text-transform: uppercase;
@@ -806,7 +806,7 @@ License URI:
   }
   .search_element input[type="search"] {
     width: 100%;
-    font-size: 12px;
+    font-size: 14px;
   }
   .logo_02 img {
     width: 100%;
@@ -1017,7 +1017,7 @@ License URI:
     padding-right: 10px;
   }
   .woocommerce-checkout-review-order tbody tr td {
-    font-size: 14px;
+    font-size: 16px;
   }
   .cart_table tbody tr td.product-thumbnail .thumbimgs {
     width: 60px;
@@ -1039,12 +1039,12 @@ License URI:
     right: 7px;
   }
   .cart_table tbody tr td.product-title a.itemtitle {
-    font-size: 13px;
+    font-size: 15px;
     line-height: 15px;
   }
   .cart_table tbody tr td.product-subtotal,
   .cart_table tbody tr td.product-price span.amount {
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 0;
   }
   .cart_table thead tr th.product-subtotal,
@@ -1123,7 +1123,7 @@ License URI:
     font-size: 20px;
   }
   .pagin strong {
-    font-size: 12px;
+    font-size: 14px;
   }
   .commentForm,
   .ndAuthorInner {
@@ -1269,7 +1269,7 @@ License URI:
     bottom: 55px;
   }
   .footer__contacts li {
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 3px;
   }
   .popUp_social {
