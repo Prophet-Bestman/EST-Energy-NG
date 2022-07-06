@@ -3738,7 +3738,8 @@ License URI:
 }
 .sda_gl img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 .sda_gl.small img {
   width: 100%;
